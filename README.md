@@ -1,3 +1,5 @@
+![](https://github.com/Karim-Adnan/Hello-DSC/blob/master/img/hacktoberfest2020.jpeg)  
+
 # Hello Developers! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### Let's help you submit your first Pull Request.
