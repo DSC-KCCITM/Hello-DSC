@@ -73,4 +73,7 @@ git push -u origin YOUR_BRANCH_NAME
 ```
 
 ### Step 9:
-Now, open your web browser and go to the original repository on GitHub. If your changes has been pushed to your forked copy, you'll be able to see an option saying "New Pull Request" in the original repository. Click on the option, on next page choose the master branch of the main repo against your created-branch name ( choose your branch name we created and not master), then click on create pull request. Once you fill in the commit message and comment click on submit pull request, you're all done! Wait for the project maintainer to review your changes and merge it to the master branch. Once its been successfully merged, your changes will be visible in the submissions tab.
+Now, open your web browser and go to the original repository on GitHub. If your changes has been pushed to your forked copy, you'll be able to see an option saying "New Pull Request" in the original repository. Click on the option, on next page choose the master branch of the main repo against your created-branch name ( choose your branch name we created and not master), then click on create pull request. Once you fill in the commit message and comment click on submit pull request, you're all done! Wait for the project maintainer to review your changes and merge it to the master branch. Once its been successfully merged, your changes will be visible in the submissions tab.  
+
+
+##### Don't forget to ```Star``` the main repository
