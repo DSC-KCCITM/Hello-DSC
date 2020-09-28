@@ -45,7 +45,7 @@ git checkout YOUR_BRANCH_NAME
 ```
 
 ### Step 6:
-In your  file manager/terminal navigate to the downloaded repo. Open the sub-directory Hello_DSC/contributors. and create a new .md file with your username as the filename with .md extension.
+In your  file manager/terminal navigate to the downloaded repo. Open the sub-directory Hello_DSC/contributors/ and create a new .md file with your username as the filename with .md extension.
 It should look like YOUR_USER_NAME.md eg: adnankarim.md
 Open this file in your favourite editor and fill the details as below in the frontmatter of the markdown file.
 YOUR_USER_NAME.md
