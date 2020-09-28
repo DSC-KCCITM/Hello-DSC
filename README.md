@@ -18,6 +18,7 @@ Go to the GitHub repository from the link below of this project and fork the pro
 ```sh
 https://github.com/DSC-KCCITM/Hello-DSC.git
 ```
+![](https://github.com/Karim-Adnan/Hello-DSC/blob/master/img/Step_2.PNG)
 
 ### Step 3:
 Clone the forked repository to your local machine.  
@@ -25,6 +26,7 @@ Click on the big green button saying "Clone or download" and copy the https url 
 ```sh
 git clone https://github.com/YOUR_USERNAME/Hello-DSC.git
 ```
+![](https://github.com/Karim-Adnan/Hello-DSC/blob/master/img/Step_3.PNG)
 
 ### Step 4:
 Print ```"Hello World, I am YOUR_NAME"``` in any programming language file you prefer and save it.
@@ -35,14 +37,17 @@ Let's start working on the changes required now! First cd into the cloned folder
 ```sh
 cd Hello-DSC
 ```
+![](https://github.com/Karim-Adnan/Hello-DSC/blob/master/img/Step_5a.PNG)
 Now, Before jumping in to the code, make sure you're working on a different branch and not in master. To create a new branch, from the terminal inside your current project directory type the following command.
 ```
 git branch hello-YOUR_USERNAME
 ```
+![](https://github.com/Karim-Adnan/Hello-DSC/blob/master/img/Step_5b.PNG)
 Replace the YOUR_USERNAME with your GitHub username or you can give any name to your branch which describes the purpose of the branch. Since here we're adding a single file, we'll simply give the name of the branch as above. eg: ```git branch hello_haxzie```. Once you have created the new branch we'll change the current brach from master to your newly created branch. Execute the following command on your terminal.
 ```
 git checkout YOUR_BRANCH_NAME
 ```
+![](https://github.com/Karim-Adnan/Hello-DSC/blob/master/img/Step_5c.PNG)
 
 ### Step 6:
 In your  file manager/terminal navigate to the downloaded repo. Open the sub-directory Hello-DSC/contributors/ and create a new .md file with your username as the filename with .md extension.
@@ -55,25 +60,29 @@ username: YOUR_USER_NAME
 fullname: YOUR_FULL_NAME
 ---
 ```
+![](https://github.com/Karim-Adnan/Hello-DSC/blob/master/img/Step_6.PNG)
 
 ### Step 7:
 Let's commit the changes with a message. First we need to stage all the changes we made. Open the terminal inside the project directory and execute following commands.
 ```
 git add FILE_NAME
 ```
+![](https://github.com/Karim-Adnan/Hello-DSC/blob/master/img/Step_7a.PNG)
 The above command adds your changes to the staging area, now lets commit it with a suitable and easily understandable message.
 ```
 git commit -m "YOUR_COMMIT_MESSAGE"
 ```
+![](https://github.com/Karim-Adnan/Hello-DSC/blob/master/img/Step_7b.PNG)
 
 ### Step 8:
 Let's push the changes to your repository! execute the following command to push all the changes to the forked copy in your GitHub account.
 ```
 git push -u origin YOUR_BRANCH_NAME
 ```
+![](https://github.com/Karim-Adnan/Hello-DSC/blob/master/img/Step_8.PNG)
 
 ### Step 9:
 Now, open your web browser and go to the original repository on GitHub. If your changes has been pushed to your forked copy, you'll be able to see an option saying "New Pull Request" in the original repository. Click on the option, on next page choose the master branch of the main repo against your created-branch name ( choose your branch name we created and not master), then click on create pull request. Once you fill in the commit message and comment click on submit pull request, you're all done! Wait for the project maintainer to review your changes and merge it to the master branch. Once its been successfully merged, your changes will be visible in the submissions tab.  
 
 
-##### Don't forget to ```Star``` the main repository
+##### Don't forget to ```Star``` the main repository! :D
